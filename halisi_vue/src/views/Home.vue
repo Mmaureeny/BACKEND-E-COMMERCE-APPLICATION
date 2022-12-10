@@ -6,7 +6,7 @@
                 Welcome to Halisi
             </p>
             <p class="subtitle">
-                The best jewelery store online
+                Beautiful Handmade Creations
             </p>
         </div>
     </section>
