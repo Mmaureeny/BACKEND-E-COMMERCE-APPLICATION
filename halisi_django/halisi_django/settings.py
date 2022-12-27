@@ -25,7 +25,7 @@ SECRET_KEY = 'f_)*$6xz#a7k(6ir&u@+tq8h@_t_9%3nr%9g5z4vdp#*a4)a*o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['.netlify.app']
 
 STRIPE_SECRET_KEY = 'sk_test_51M9lKdIWP49EK0oiBYXvMRA2V2VDW75dQKxQmgo5xEA8IFzcBkTji08K0wivL64Ie5EHe9QunObjwavdBlEF2uww007R5Ljbv3'
 
